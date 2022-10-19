@@ -1,5 +1,6 @@
 # A bootloader for SN32F2x-based keyboards
 ## Compiling
+ editing file to trigger build
 
 A recent version of the [GNU Arm Embedded Toolchain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm) is recommended for building this project. In order to build, execute the following commands:
 
